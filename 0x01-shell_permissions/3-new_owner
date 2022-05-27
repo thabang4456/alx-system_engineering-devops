@@ -1,1 +1,2 @@
 #!/bin/bash
+chown Betty 3-new_owner
