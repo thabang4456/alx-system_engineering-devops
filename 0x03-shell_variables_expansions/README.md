@@ -1,1 +1,1 @@
-alias
+hello myuser
