@@ -1,1 +1,1 @@
-hello myuser
+ Script that counts the number of directories in the PATH
